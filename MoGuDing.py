@@ -238,7 +238,7 @@ def signIn(type):
 def checkForUpdates():
     global UPDATE_INFO
     #remote_address = "https://raw.githubusercontent.com/leifengwl/MoGuDing-Auto/main/config.ini"
-    remote_address = "https://endpoint.fastgit.org/https://github.com/leifengwl/MoGuDing-Auto/blob/main/config.ini"
+    remote_address = "https://endpoint.fastgit.org/https://github.com/DeepFal/MoGuDing-Auto/blob/main/config.ini"
     headers = {
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36"
     }
